@@ -1,2 +1,3 @@
-# open-code-reviewer-atr5
-Automated issue comment bot repository
+# Open Code Reviewer Atr5
+
+Automated issue comment bot repository.
